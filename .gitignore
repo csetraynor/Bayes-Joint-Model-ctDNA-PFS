@@ -1,0 +1,20 @@
+# Stan / CmdStan
+*.o
+*.hpp
+*.d
+*_model
+Models/*.csv
+Models/*.rds
+
+# mrgsolve / R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

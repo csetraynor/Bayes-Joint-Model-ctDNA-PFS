@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+type: software
+title: "Bayes-Joint-Model-ctDNA-PFS"
+authors:
+  - family-names: Johnson
+    given-names: M.
+  - family-names: Serra Traynor
+    given-names: C.
+  - family-names: Vishwanathan
+    given-names: K.
+  - family-names: Overend
+    given-names: P.
+  - family-names: Hartmaier
+    given-names: R.
+  - family-names: Markovets
+    given-names: A.
+  - family-names: Chmielecki
+    given-names: J.
+  - family-names: Mugundu
+    given-names: G. M.
+  - family-names: Barrett
+    given-names: J. C.
+  - family-names: Tomkinson
+    given-names: H.
+  - family-names: Ramalingam
+    given-names: S. S.
+preferred-citation:
+  type: article
+  title: "Longitudinal Circulating Tumor DNA Modeling to Predict Disease Progression in First-Line Mutant Epidermal Growth Factor Receptor Non-Small Cell Lung Cancer"
+  authors:
+    - family-names: Johnson
+      given-names: M.
+    - family-names: Serra Traynor
+      given-names: C.
+    - family-names: Vishwanathan
+      given-names: K.
+    - family-names: Overend
+      given-names: P.
+    - family-names: Hartmaier
+      given-names: R.
+    - family-names: Markovets
+      given-names: A.
+    - family-names: Chmielecki
+      given-names: J.
+    - family-names: Mugundu
+      given-names: G. M.
+    - family-names: Barrett
+      given-names: J. C.
+    - family-names: Tomkinson
+      given-names: H.
+    - family-names: Ramalingam
+      given-names: S. S.
+  journal: "Clinical Pharmacology & Therapeutics"
+  year: 2024
+  volume: 115
+  issue: 2
+  start: 349
+  end: 360
+  doi: 10.1002/cpt.3113
+  url: "https://pubmed.ncbi.nlm.nih.gov/38010260/"
