@@ -48,9 +48,8 @@ hyperparameters) via your preferred Stan interface (CmdStan, CmdStanR,
 CmdStanPy, etc.), e.g.:
 
 ```r
-library(cmdstanr)
-mod <- cmdstan_model("Models/jmStein.stan")
-fit <- mod$sample(data = your_data_list, chains = 4, parallel_chains = 4)
+library(StanFlowR)
+cmdstan_mkdir("Models/jmStein.stan")
 ```
 
 `Models/jmODEklog.stan` additionally requires linking against Torsten to
